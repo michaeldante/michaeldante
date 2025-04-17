@@ -1,4 +1,4 @@
-## **Blockchain Developer**
+## **Blockchain Developer – Remote | Dante Labs**
 
 **Dante Labs** is hiring experienced **Blockchain Developers** to help us build cutting-edge Web3 features into our existing React, Next.js, and Node.js stack. You'll work on wallet integrations, smart contracts, and scalable blockchain solutions.
 
